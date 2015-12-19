@@ -25,6 +25,7 @@ Example Playbook
 
 Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
 
+```
 - hosts: all
   sudo: True
 
@@ -32,13 +33,14 @@ Including an example of how to use your role (for instance, with variables passe
     - linux-core-software # install git somehow
     - users
     - ohmyzsh
+```
 
- License
- -------
+License
+-------
 
- BSD
+BSD
 
- Author Information
- ------------------
+Author Information
+------------------
 
- Chris - https://codereviewvideos.com/
+Chris - https://codereviewvideos.com/
